@@ -1,0 +1,17 @@
+8a84fe440227f0c335b45a1d4e79e97c *DESCRIPTION
+70ea42b079fac304e975b62b87f651b9 *LICENSE
+0b5530362ac83714301148b53afb1141 *NAMESPACE
+283b5a539573d7d8015139eef6ce8144 *NEWS
+760c2f085433ba88a17629fc079eff09 *R/aaa.R
+bee080aa03d47f9b58558ba666dcb6db *R/dca.R
+820b7c99ff7132fa6104d60e8e4aecea *R/gdmd.r
+fb335802d519b969bd7043239451b6fe *R/gdmf.r
+64401eab026ba876afc2a93b887a9f7a *R/rca.R
+7e31da2f9fd090ce0d205e8613dd9a07 *README.md
+2a36743d04a095bde9fefd22fe2eaffc *man/GdmDiag.Rd
+595f202a1e2ead3c800909d818b55323 *man/GdmFull.Rd
+846740170bc0cc04fb553a0b4a79a09c *man/dca.Rd
+b1c54438edf6306d5115abc7eda3ff4f *man/rca.Rd
+942a61d110cc39ef11327b2681e44dc9 *tests/testthat.R
+be4f8c411e223fe800c4b5d05578fb64 *tests/testthat/test_algorithms.R
+ca7a90ca17ecca8773a3ca680fd7a2ae *tests/testthat/test_helper_functions.R
